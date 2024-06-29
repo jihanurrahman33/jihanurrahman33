@@ -8,7 +8,7 @@
 ### 🌟 About Me
 - 🔭 I’m currently working on [Souls](https://github.com/jihanurrahman33/Souls.git)
 - 🌱 I’m currently learning **Flutter, Dart, Database**
-- 👯 I’m looking to collaborate on [Souls](https://github.com/jihanurrahman33/Souls.git)
+- 👯 I’m looking to collaborate on [Expense Tracker](https://github.com/jihanurrahman33/Expense-Tracker.git)
 - 🤝 I’m seeking help with [Simple Calculator](https://github.com/jihanurrahman33/Simple-Calculator.git)
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/jihanurrahman33)
 - 📝 I regularly write articles on [LinkedIn](https://linkedin.com/in/md-jihanur-rahman)
