@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Jihanur Rahman</h1>
-<h3 align="center">💻 A Passionate Flutter Frontend Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">🚀 A Passionate Flutter Developer | Aspiring MERN Stack Web Developer 🇧🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jihanurrahman33&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -8,20 +8,21 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently building [Souls Flutter App](https://github.com/jihanurrahman33/souls_flutter)
-- 🌱 Actively learning **Mobile App Development & Clean Architecture**
-- 👯 Open to collaboration on [Task Manager](https://github.com/jihanurrahman33/task_manager)
-- 🤝 Looking for support and contributions for [Souls](https://github.com/jihanurrahman33/souls_flutter)
-- 💬 Ask me about: **Flutter, GetX, Firebase, OOP, DSA**
-- 📫 Reach me at: **rahman-15-4969@diu.edu.bd**
-- 🧠 Fun fact: *I debug 90% of bugs by staring at the code intensely 👀*
+### 💡 About Me
+- 🔭 Currently building: [Souls Flutter App](https://github.com/jihanurrahman33/souls_flutter)
+- 💼 Open to Flutter and MERN freelance projects or internships
+- 🌱 Learning Web Development using the **MERN Stack (MongoDB, Express.js, React, Node.js)**
+- 👯 Collaborating on: [Task Manager](https://github.com/jihanurrahman33/task_manager)
+- 🤝 Seeking contributors for: [Souls](https://github.com/jihanurrahman33/souls_flutter)
+- 💬 Ask me about: **Flutter, Firebase, GetX, OOP, DSA, MERN Stack**
+- 📫 Contact me: **rahman-15-4969@diu.edu.bd**
+- ⚡ Fun fact: *I fix bugs faster when I talk to my code out loud 😄*
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git,linux,cpp,python,php,mysql,sqlite,js,html,figma,xd,illustrator,photoshop" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,git,linux,cpp,python,js,react,nodejs,express,mongodb,html,css,php,mysql,sqlite,figma,xd,photoshop,illustrator" />
 </p>
 
 ---
@@ -67,7 +68,7 @@
 
 ---
 
-### 🙌 Thanks for visiting!
+### 🙌 Thanks for stopping by!
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVpTDPvLvs8CMI/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
