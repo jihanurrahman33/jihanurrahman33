@@ -34,8 +34,8 @@
 ---
 
 ## 🚀 Highlights
-- **30+ contributions** across Flutter framework, plugins, and widely used OSS libraries  
-- Code changes to [`flutter/flutter`](https://github.com/flutter/flutter): **widgets, rendering, web, accessibility**  
+- **40+ contributions** across Flutter framework, plugins, and widely used OSS libraries  
+- Merged PRs in [`flutter/flutter`](https://github.com/flutter/flutter), [`fl_chart`](https://github.com/imaNNeoFighT/fl_chart), and many ecosystem packages  
 - **DX & maintenance:** CI upgrades, deprecation cleanups, clearer docs, stronger tests  
 - Active in **Hacktoberfest** and OSS community programs  
 
@@ -64,29 +64,27 @@
 
 ---
 
-## 📌 Selected Pull Requests
-<details>
-  <summary><b>Show PR highlights</b></summary>
-  <br/>
+## 📌 Selected Contributions
 
-  ### Flutter Framework
-  - [Web: guard <code>showPerformanceOverlay</code> to prevent crashes](https://github.com/flutter/flutter/pull/174812)  
-  - [Rendering: fix <code>PerformanceOverlay</code> bitmask checks + tests](https://github.com/flutter/flutter/pull/174814)  
-  - [Widgets: add <code>semanticIndexOffset</code> to builder constructors](https://github.com/flutter/flutter/pull/174815)  
-  - [Material TimePicker a11y: announce AM/PM state](https://github.com/flutter/flutter/pull/174816)  
-  - [ListTile docs: clarify <code>tileColor</code> vs <code>selectedTileColor</code>](https://github.com/flutter/flutter/pull/174811)
+### ✅ Merged PRs
+- **fluttercommunity/plus_plugins** — normalize macOS spelling in docs ([#3658](https://github.com/fluttercommunity/plus_plugins/pull/3658))  
+- **fzyzcjy/flutter_portal** — update README (pub.dev, macOS, links) ([#125](https://github.com/fzyzcjy/flutter_portal/pull/125))  
+- **imaNNeoFighT/fl_chart** — docs fixes ([#1987](https://github.com/imaNNeoFighT/fl_chart/pull/1987))  
+- **OpenFlutter/fluwx** — update README (pub.dev, macOS, links) ([#728](https://github.com/OpenFlutter/fluwx/pull/728))  
+- **AppliedRecognition/Ver-ID-Flutter** — migrate deprecated Material buttons ([#16](https://github.com/AppliedRecognition/Ver-ID-Flutter/pull/16))  
 
-  ### Ecosystem & Tooling
-  - [FlutterCommunity plus_plugins — docs fixes](https://github.com/fluttercommunity/plus_plugins/pull/3657)  
-  - [Supabase Flutter — docs update](https://github.com/supabase/supabase-flutter/pull/1218)  
-  - [Sentry Dart — docs improvements](https://github.com/getsentry/sentry-dart/pull/3225)  
-  - [Mapbox Flutter GL — bug fix](https://github.com/mapbox/flutter-mapbox-gl/pull/80)  
-  - [transformer_page_view — bug fix](https://github.com/best-flutter/transformer_page_view/pull/47)  
-  - [WireGuard Flutter plugin — code](https://github.com/kasio2005/wireguard_plugin/pull/1)  
-  - [Google Pay Flutter plugin — docs](https://github.com/google-pay/flutter-plugin/pull/309)
+🔎 [See all merged PRs →](https://github.com/pulls?q=is%3Apr+author%3Ajihanurrahman33+is%3Amerged)
 
-  <sub>🔎 All PRs: https://github.com/pulls?q=is%3Apr+author%3Ajihanurrahman33</sub>
-</details>
+---
+
+### 🟡 Open PRs (Review in Progress)
+- **flutter/flutter** — A11y: announce AM/PM state changes ([#174816](https://github.com/flutter/flutter/pull/174816))  
+- **flutter/flutter** — Widgets: add `semanticIndexOffset` ([#174815](https://github.com/flutter/flutter/pull/174815))  
+- **freeCodeCamp** — add Bluesky profile support ([#62038](https://github.com/freeCodeCamp/freeCodeCamp/pull/62038))  
+- **EbookFoundation/free-programming-books** — improve CONTRIBUTING docs ([#11938](https://github.com/EbookFoundation/free-programming-books/pull/11938))  
+- **AppliedRecognition/Ver-ID-UI-Android** — multiple CI + docs improvements ([PRs #13–#25](https://github.com/AppliedRecognition/Ver-ID-UI-Android/pulls/jihanurrahman33))  
+
+🔎 [See all open PRs →](https://github.com/pulls?q=is%3Apr+author%3Ajihanurrahman33+is%3Aopen)
 
 ---
 
@@ -98,25 +96,19 @@
 
 ---
 
-## 📫 Contact
-- 📧 [jihanurrahman33@gmail.com](mailto:jihanurrahman33@gmail.com)  
-- 🔗 [LinkedIn: md-jihan-ur-rahman](https://www.linkedin.com/in/md-jihanur-rahman/)  
-- 💻 Or open an issue on any repo I’ve contributed to and mention `@jihanurrahman33`  
-
----
+## 📊 GitHub Stats
 
 <div align="center">
-
-## 📊 GitHub Stats
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jihanurrahman33&show_icons=true&theme=tokyonight&hide_border=true" />
 <br/>
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihanurrahman33&layout=compact&theme=tokyonight&hide_border=true" />
 
+</div>
+
 ---
 
 ## 📌 Pinned Projects
-<!-- 2x2 grid for better visual balance -->
 <table>
   <tr>
     <td>
@@ -144,9 +136,9 @@
   </tr>
 </table>
 
-</div>
-
 ---
 
-### 🤝 Collaboration
+## 🤝 Collaboration
 Maintainers of Flutter packages (or JS/TS tooling): if you want help with **upgrade paths, a11y improvements, tiny bug fixes, docs polish, or CI/test hygiene**, open an issue and tag me — happy to help.
+
+---
