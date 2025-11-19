@@ -1,7 +1,7 @@
 <div align="center">
 
 # MD Jihanur Rahman
-**Open-Source Contributor · Flutter & Web · Developer Experience**
+**Open-Source Contributor · MERN Stack Developer | React • Node.js • Express • MongoDB | Flutter | Firebase | Getx.**
 
 > I ship small, safe, well-tested improvements — accessibility & rendering fixes, CI hygiene, and docs that unblock users.
 
