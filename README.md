@@ -9,18 +9,22 @@
 </div>
 
 ---
+<div align="center">
+  <h2>Full-Stack Developer | MERN • Flutter • Next.js  </h2>
+  <h3>Computer Science Student | Junior Software Engineer</h3>
+</div>
+
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science Student** and a **Full-Stack Developer** based in Bangladesh. I specialize in building **scalable MERN stack applications** and **cross-platform mobile apps using Flutter**.
+🎓 Computer Science Student & Aspiring Software Engineer (Bangladesh 🇧🇩)
 
-I am actively transitioning to **Next.js** for modern server-side rendering and preparing for **Software Engineering roles**.
-
-- 🔭 Working on: [Souls](https://github.com/jihanurrahman33/souls_flutter)
-- 🌱 Learning: **Advanced System Design & Mobile Architecture**
-- 👯 Collaborating on: [Task Manager](https://github.com/jihanurrahman33/task_manager)
-- 💬 Ask me about: **Flutter, GetX, React, Node.js, DSA**
-- 📫 Contact: **rahman-15-4969@diu.edu.bd**
+• Hands-on experience building full-stack MERN applications with real-world features  
+• Recent MERN projects include authentication systems, REST APIs, role-based access, and dashboards  
+• Built cross-platform mobile apps using Flutter with clean architecture and state management  
+• Currently transitioning to Next.js for server-side rendering, SEO, and production-ready web apps  
+• Actively preparing for internship & junior software engineering roles  
+• Strong foundation in Data Structures & Algorithms and system design fundamentals
 
 ---
 
@@ -76,9 +80,5 @@ I am actively transitioning to **Next.js** for modern server-side rendering and 
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
-<!-- Note: This animation will NOT load in preview. It requires the GitHub Action to run after you push to the 'main' branch. -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jihanurrahman33/jihanurrahman33/output/github-contribution-grid-snake.svg" alt="Snake Animation (Loads after GitHub Action runs)" />
-</div>
+
 
