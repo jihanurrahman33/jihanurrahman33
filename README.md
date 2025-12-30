@@ -11,7 +11,6 @@
 ---
 <div align="center">
   <h2>Full-Stack Developer | MERN • Flutter • Next.js  </h2>
-  <h3>Computer Science Student | Junior Software Engineer</h3>
 </div>
 
 
