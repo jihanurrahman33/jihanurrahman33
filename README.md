@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://nishak.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+Next.js+%26+Node.js;Shipping+cross-platform+apps+with+Flutter;Writing+fast%2C+clean+REST+APIs+in+Go;Published+Dart+package+author+on+pub.dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=Full-stack+web+apps+with+Next.js+%26+Node.js;Cross-platform+mobile+apps+with+Flutter;Fast%2C+clean+REST+APIs+in+Go;Published+Dart+package+author+on+pub.dev" alt="Typing SVG" />
 </a>
 
 <br/>
