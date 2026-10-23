@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2496ED&height=230&section=header&text=Md%20Jihanur%20Rahman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20Mobile%20Developer%20%E2%80%A2%20Dhaka%2C%20Bangladesh&descSize=18&descAlignY=56" width="100%" alt="Md Jihanur Rahman" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2496ED&height=230&section=header&text=Md%20Jihanur%20Rahman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20and%20Mobile%20Developer%20%E2%80%A2%20Dhaka%2C%20Bangladesh&descSize=18&descAlignY=56" width="100%" alt="Md Jihanur Rahman" />
 
 <div align="center">
 
