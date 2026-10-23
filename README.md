@@ -33,8 +33,10 @@ I'm a **Full-Stack & Mobile Developer** and CSE student at **Daffodil Internatio
 
 ## 💼 Experience
 
-**Next.js Developer** · **CSETECH-DIU** · *Jan 2026 – Apr 2026*
-> Worked with frontend, backend and Spring Boot teams to ship web apps on Next.js and backend APIs, using PostgreSQL, MySQL, Redis, Docker and Agile workflows.
+**🌍 Freelance Developer** · *4+ years* · **100+ clients worldwide**
+
+- **Next.js Developer:** built fast, SEO-friendly web apps, dashboards and e-commerce stores with Next.js, Node.js and Go APIs
+- **Mobile App Developer:** shipped cross-platform Flutter apps for Android and iOS, from UI to API integration and store release
 
 ---
 
