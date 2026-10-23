@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://nishak.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=Full-stack+web+apps+with+Next.js+%26+Node.js;Cross-platform+mobile+apps+with+Flutter;Fast%2C+clean+REST+APIs+in+Go;Published+Dart+package+author+on+pub.dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=Full-stack+web+apps+with+Next.js+%26+Node.js;Cross-platform+mobile+apps+with+Flutter;Fast%2C+clean+REST+APIs+in+Go;Author+of+3+packages+on+pub.dev" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,10 +24,19 @@ I'm a **Full-Stack & Mobile Developer** and CSE student at **Daffodil Internatio
 
 - 🌐 **Web:** React, Next.js and TypeScript on the frontend; Node.js/Express and **Go** on the backend
 - 📱 **Mobile:** Flutter apps built with Clean Architecture, BLoC and GetX
-- 📦 **Open source:** published Dart packages on pub.dev and contributions to 10+ Flutter projects
+- 📦 **Open source:** 3 published packages on pub.dev and contributions to 10+ Flutter projects
 - 🔭 **Currently building:** [BazarFlow](https://github.com/jihanurrahman33/bazarflow-marketplace), an open-source multi-vendor marketplace (Next.js + Flutter)
 - 🌱 **Exploring:** Go microservices, AWS, and AI-powered features
-- 💼 **Open to:** junior / full-stack / Flutter roles and freelance work
+- 💼 **Open to:** full-stack and Flutter roles, plus freelance projects
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Freelancing-4%2B%20years-2496ED?style=flat-square" alt="4+ years freelancing"/>
+<img src="https://img.shields.io/badge/Clients-100%2B%20worldwide-2496ED?style=flat-square" alt="100+ clients"/>
+<img src="https://img.shields.io/badge/Public%20repos-100%2B-2496ED?style=flat-square&logo=github" alt="100+ public repos"/>
+<img src="https://img.shields.io/badge/pub.dev-3%20packages-0175C2?style=flat-square&logo=dart" alt="3 pub.dev packages"/>
+
+</div>
 
 ---
 
@@ -131,8 +140,10 @@ I'm a **Full-Stack & Mobile Developer** and CSE student at **Daffodil Internatio
       <h3>🔍 SkillHunt</h3>
       <p>Recruitment intelligence system that turns public developer activity into insights through tracking, live monitoring and analytics dashboards.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
       <a href="https://skill-hunt-developer-intelligence-p.vercel.app">🔗 Live</a> · <a href="https://github.com/jihanurrahman33/SkillHunt-Developer-Intelligence-Platform">💻 Code</a>
     </td>
@@ -149,12 +160,12 @@ I'm a **Full-Stack & Mobile Developer** and CSE student at **Daffodil Internatio
 
 ## 📦 Open Source & Packages
 
-| Package | What it does |
-| :--- | :--- |
-| [**bd_phone_validator**](https://pub.dev/packages/bd_phone_validator) <a href="https://pub.dev/packages/bd_phone_validator"><img src="https://img.shields.io/pub/v/bd_phone_validator?style=flat-square&logo=dart&color=0175C2" align="right"/></a> | Dart package for validating Bangladeshi phone numbers, published on pub.dev |
-| [**universal_file_picker**](https://github.com/jihanurrahman33/universal_file_picker) | Pick, preview and upload files with one API across Android, iOS, Web, macOS, Windows and Linux |
-| [**flutter_api_logger**](https://github.com/jihanurrahman33/flutter_api_logger) | Lightweight request/response logger for Flutter apps |
-| [**flutter-clean-architecture-skill**](https://github.com/jihanurrahman33/flutter-clean-architecture-skill) | AI agent skill for building, reviewing and refactoring Flutter apps with Clean Architecture |
+| Package | What it does | pub.dev |
+| :--- | :--- | :---: |
+| [**bd_phone_validator**](https://github.com/jihanurrahman33/bd_phone_validator) | Validate Bangladeshi phone numbers in Dart and Flutter | <a href="https://pub.dev/packages/bd_phone_validator"><img src="https://img.shields.io/pub/v/bd_phone_validator?style=flat-square&logo=dart&color=0175C2" alt="bd_phone_validator on pub.dev"/></a> |
+| [**universal_file_picker**](https://github.com/jihanurrahman33/universal_file_picker) | Pick, preview and upload files with one API across Android, iOS, Web, macOS, Windows and Linux | <a href="https://pub.dev/packages/universal_file_picker"><img src="https://img.shields.io/pub/v/universal_file_picker?style=flat-square&logo=dart&color=0175C2" alt="universal_file_picker on pub.dev"/></a> |
+| [**flutter_api_logger**](https://github.com/jihanurrahman33/flutter_api_logger) | Lightweight request and response logger for Flutter apps | <a href="https://pub.dev/packages/flutter_api_logger"><img src="https://img.shields.io/pub/v/flutter_api_logger?style=flat-square&logo=dart&color=0175C2" alt="flutter_api_logger on pub.dev"/></a> |
+| [**flutter-clean-architecture-skill**](https://github.com/jihanurrahman33/flutter-clean-architecture-skill) | AI agent skill for building, reviewing and refactoring Flutter apps with Clean Architecture | <a href="https://github.com/jihanurrahman33/flutter-clean-architecture-skill"><img src="https://img.shields.io/badge/AI_Skill-GitHub-181717?style=flat-square&logo=github" alt="AI skill on GitHub"/></a> |
 
 ---
 
@@ -174,7 +185,7 @@ I'm a **Full-Stack & Mobile Developer** and CSE student at **Daffodil Internatio
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jihanurrahman33&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jihanurrahman33&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=jihanurrahman33&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=jihanurrahman33&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak"/>
@@ -189,7 +200,7 @@ I'm a **Full-Stack & Mobile Developer** and CSE student at **Daffodil Internatio
 
 <div align="center">
 
-I'm always happy to talk about new projects, collaboration or job opportunities.
+**Have a project in mind?** I'm available for freelance work, collaborations and full-time roles.
 
 <a href="https://nishak.tech"><img src="https://img.shields.io/badge/Portfolio-2496ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/md-jihanur-rahman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
